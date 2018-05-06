@@ -23,7 +23,7 @@ class LINE:
   def __init__(self):
     self.Talk = Talk()
     self._session = requests.session() 
-    self._headers = {'X-Line-Application': 'CHROMEOS\t1.4.17\tChrome_OS\t1'}    
+    self._headers = {'X-Line-Application': 'DESKTOPWIN 8.2.2'}    
 
   def login(self, mail=None, passwd=None, cert=None, token=None, qr=False, callback=None):
     if callback is None:
@@ -43,9 +43,9 @@ class LINE:
     self.authToken = self.Talk.authToken
     self.cert = self.Talk.cert
     self._headers = {
-              'X-Line-Application': 'CHROMEOS\t1.4.17\tChrome_OS\t1', 
+              'X-Line-Application': 'DESKTOPWIN 8.2.2', 
               'X-Line-Access': self.authToken, 
-              'User-Agent': 'Line/1.4.17'
+              'User-Agent': 'line/8.2.2'
    }
    
     self.Poll = Poll(self.authToken)
@@ -501,9 +501,9 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("===============[Vipro_Bot]================")
+      print("===============[PHANTOM GHOST]================")
       print("        Thanks for TCR and my friend")
-      print("===============[© By_Vipro]================")
+      print("===============[id line rian-rian.]================")
       print("mid -> " + prof.mid)
       print("name -> " + prof.displayName)
       print("authToken -> " + self.authToken)
