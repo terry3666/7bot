@@ -18,9 +18,9 @@ class Poll:
   host = "gd2.line.naver.jp";
   port = 443;
 
-  UA = "Line/1.4.17"
+  UA = "line/8.2.2"
 #  LA = "IOSIPAD\x097.14.0\x09iPhone_OS\x0910.12.0"
-  LA = "CHROMEOS\t1.4.17\tChrome_OS\t1"
+  LA = "DESKTOPWIN 8.2.2"
 
   rev = 0
 
@@ -38,7 +38,7 @@ class Poll:
     self.transport.open()
 
   def stream(self, sleep=50000):
-    #usleep = lambda x: time.sleep(x/1000000.0)
+    usleep = lambda x: time.sleep(x/1000000.0)
     while True:
       try:
         Ops = self.client.fetchOps(self.rev, 5)
