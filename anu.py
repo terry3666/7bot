@@ -58,253 +58,253 @@ sys.setdefaultencoding('utf-8')
 
 selfMessage ="""
 ╔═════════════════════════
-║            ρнαитσм gнσѕт
+║           ☠ρнαитσм gнσѕт☠
 ╠═════════════════════════
-╠➩〘Hi〙
-╠➩〘Me〙
-╠➩〘Mymid〙
-╠➩〘Mid @〙
-╠➩〘SearchID: (ID LINE)〙
-╠➩〘Checkdate (DD/MM/YY)〙
-╠➩〘Kalender〙
-╠➩〘Steal contact〙
-╠➩〘Pp @〙
-╠➩〘Cover @〙
-╠➩〘Auto like〙
-╠➩〘Scbc Text〙
-╠➩〘Cbc Text〙
-╠➩〘Gbc Text〙
-╠➩〘Bio @〙
-╠➩〘Info @〙
-╠➩〘Name @〙
-╠➩〘Profile @〙
-╠➩〘Contact @〙
-╠➩〘Getvid @〙
-╠➩〘Friendlist〙
+╠➩☠〘Hi〙
+╠➩☠〘Me〙
+╠➩☠〘Mymid〙
+╠➩☠〘Mid @〙
+╠➩☠〘SearchID: (ID LINE)〙
+╠➩☠〘Checkdate (DD/MM/YY)〙
+╠➩☠〘Kalender〙
+╠➩☠〘Steal contact〙
+╠➩☠〘Pp @〙
+╠➩☠〘Cover @〙
+╠➩☠〘Auto like〙
+╠➩☠〘Scbc Text〙
+╠➩☠〘Cbc Text〙
+╠➩☠〘Gbc Text〙
+╠➩☠〘Bio @〙
+╠➩☠〘Info @〙
+╠➩☠〘Name @〙
+╠➩☠〘Profile @〙
+╠➩☠〘Contact @〙
+╠➩☠〘Getvid @〙
+╠➩☠〘Friendlist〙
 ╠═════════════════════════
-║            ρнαитσм gнσѕт 
+║       ☠☠ρнαитσм gнσѕт☠☠
 ║     line.me/ti/p/~rian-rian.
 ╚═════════════════════════
 """
 
 botMessage ="""
 ╔═════════════════════════
-║            ρнαитσм gнσѕт
+║          ☠ρнαитσм gнσѕт☠
 ╠═════════════════════════
-╠➩〘Absen〙
-╠➩〘Respon〙
-╠➩〘Runtime〙
-╠➩〘copy @〙
-╠➩〘Vipro1 copy @〙
-╠➩〘Vipro2 copy @〙
-╠➩〘Vipro3 copy @〙
-╠➩〘Vipro4 copy @〙
-╠➩〘Backup all〙
-╠➩〘bio Text〙
-╠➩〘@bye (Usir Bot Utama)〙
-╠➩〘Bye bot (Usir Semua Bot)〙
+╠➩☠〘Absen〙
+╠➩☠〘Respon〙
+╠➩☠〘Runtime〙
+╠➩☠〘copy @〙
+╠➩☠〘Vipro1 copy @〙
+╠➩☠〘Vipro2 copy @〙
+╠➩☠〘Vipro3 copy @〙
+╠➩☠〘Vipro4 copy @〙
+╠➩☠〘Backup all〙
+╠➩☠〘bio Text〙
+╠➩☠〘@bye (Usir Bot Utama)〙
+╠➩☠〘Bye bot (Usir Semua Bot)〙
 ╠═════════════════════════
-║            ρнαитσм gнσѕт
+║        ☠☠ρнαитσм gнσѕт☠☠
 ║     line.me/ti/p/~rian-rian.
 ╚═════════════════════════
 """
 
 mediaMessage ="""
 ╔═════════════════════════
-║           ρнαитσм gнσѕт
+║         ☠ρнαитσм gнσѕт☠
 ╠═════════════════════════
-╠➩〘Gift〙
-╠➩〘Giftbycontact〙
-╠➩〘Gif gore〙
-╠➩〘Google (Text)〙
-╠➩〘Playstore NamaApp〙
-╠➩〘Fancytext Text〙
-╠➩〘Musik Judul-Penyanyi〙
-╠➩〘Lirik Judul-Penyanyi〙
-╠➩〘Musrik Judul-Penyanyi〙
-╠➩〘Ig UrsnameInstagram〙
-╠➩〘Checkig UrsnameInstagram〙
-╠➩〘Apakah Text (Kerang Ajaib)〙
-╠➩〘Kapan Text (Kerang Ajaib)〙
-╠➩〘Hari Text (Kerang Ajaib)〙
-╠➩〘Berapa Text (Kerang Ajaib)〙
-╠➩〘Berapakah Text〙
-╠➩〘Youtube Judul Video〙
-╠➩〘Youtubevideo Judul Video〙
-╠➩〘Youtubesearch Judul Video〙
-╠➩〘Image NamaGambar〙
-╠➩〘Say Text〙
-╠➩〘Say-en Text〙
-╠➩〘Say-jp Text〙
-╠➩〘Tr-id Text (Translate En Ke ID〙
-╠➩〘Tr-en Text (Translate ID Ke En〙
-╠➩〘Tr-th Text (Translate ID Ke Th〙
-╠➩〘Id@en Text (Translate ID Ke En〙
-╠➩〘Id@th Text (Translate ID Ke TH〙
-╠➩〘En@id Text (Translate En Ke ID〙
+╠➩☠〘Gift〙
+╠➩☠〘Giftbycontact〙
+╠➩☠〘Gif gore〙
+╠➩☠〘Google (Text)〙
+╠➩☠〘Playstore NamaApp〙
+╠➩☠〘Fancytext Text〙
+╠➩☠〘Musik Judul-Penyanyi〙
+╠➩☠〘Lirik Judul-Penyanyi〙
+╠➩☠〘Musrik Judul-Penyanyi〙
+╠➩☠〘Ig UrsnameInstagram〙
+╠➩☠〘Checkig UrsnameInstagram〙
+╠➩☠〘Apakah Text (Kerang Ajaib)〙
+╠➩☠〘Kapan Text (Kerang Ajaib)〙
+╠➩☠〘Hari Text (Kerang Ajaib)〙
+╠➩☠〘Berapa Text (Kerang Ajaib)〙
+╠➩☠〘Berapakah Text〙
+╠➩☠〘Youtube Judul Video〙
+╠➩☠〘youtubevideo Judul Video〙
+╠➩☠〘Youtubesearch Judul Video〙
+╠➩☠〘Image NamaGambar〙
+╠➩☠〘Say Text〙
+╠➩☠〘Say-en Text〙
+╠➩☠〘Say-jp Text〙
+╠➩☠〘Tr-id Text (Translate En Ke ID〙
+╠➩☠〘Tr-en Text (Translate ID Ke En〙
+╠➩☠〘Tr-th Text (Translate ID Ke Th〙
+╠➩☠〘Id@en Text (Translate ID Ke En〙
+╠➩☠〘Id@th Text (Translate ID Ke TH〙
+╠➩☠〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
-║             ρнαитσм gнσѕт
+║        ☠☠ρнαитσм gнσѕт☠☠
 ║    line.me/ti/p/~rian-rian.
 ╚═════════════════════════
 """
 
 groupMessage ="""
 ╔═════════════════════════
-║           ρнαитσм gнσѕт
+║         ☠ρнαитσм gнσѕт☠
 ╠═════════════════════════
-╠➩〘Welcome〙
-╠➩〘Say:welcome〙
-╠➩〘Invite creator〙
-╠➩〘Setview/Cctv〙
-╠➩〘Viewseen/Ciduk〙
-╠➩〘Gn: (NamaGroup)〙
-╠➩〘Tag all〙
-╠➩〘Sepi〙
-╠➩〘lurk on/off〙
-╠➩〘lurkers〙
-╠➩〘Recover〙
-╠➩〘Cancel〙
-╠➩〘Cancelall〙
-╠➩〘Gcreator〙
-╠➩〘Ginfo〙
-╠➩〘Gurl〙
-╠➩〘List group〙
-╠➩〘Pict group: (NamaGroup)〙
-╠➩〘Spam: (Text)〙
-╠➩〘Spam〙
-╠➩〘Add all〙
-╠➩〘Kick: (Mid)〙
-╠➩〘Invite: (Mid)〙
-╠➩〘Invite〙
-╠➩〘Memlist〙
-╠➩〘Getgroup image〙
-╠➩〘Urlgroup Image〙
+╠➩☠〘Welcome〙
+╠➩☠〘Say:welcome〙
+╠➩☠〘Invite creator〙
+╠➩☠〘Setview/Cctv〙
+╠➩☠〘Viewseen/Ciduk〙
+╠➩☠〘Gn: (NamaGroup)〙
+╠➩☠〘Tag all〙
+╠➩☠〘Sepi〙
+╠➩☠〘lurk on/off〙
+╠➩☠〘lurkers〙
+╠➩☠〘Recover〙
+╠➩☠〘Cancel〙
+╠➩☠〘Cancelall〙
+╠➩☠〘Gcreator〙
+╠➩☠〘Ginfo〙
+╠➩☠〘Gurl〙
+╠➩☠〘List group〙
+╠➩☠〘Pict group: (NamaGroup)〙
+╠➩☠〘Spam: (Text)〙
+╠➩☠〘Spam〙
+╠➩☠〘Add all〙
+╠➩☠〘Kick: (Mid)〙
+╠➩☠〘Invite: (Mid)〙
+╠➩☠〘Invite〙
+╠➩☠〘Memlist〙
+╠➩☠〘Getgroup image〙
+╠➩☠〘Urlgroup Image〙
 ╠═════════════════════════
-║             ρнαитσм gнσѕт
-║     line.me/ti/p/~gjxvipro 
+║        ☠☠ρнαитσм gнσѕт☠☠
+║     line.me/ti/p/~rian-rian. 
 ╚═════════════════════════
 """
-vip="uda936836a9869eb86ec8ab992a4e8979"
+vip="u67acbba40f5d7983bd60c200e92456e9"
 
 setMessage ="""
 ╔═════════════════════════
-║              ρнαитσм gнσѕт
+║        ☠ρнαитσм gнσѕт☠
 ╠═════════════════════════
-╠➩〘Notif on/off〙
-╠➩〘Url on/off〙
-╠➩〘Alwaysread on/off〙
-╠➩〘Sider on/off〙
-╠➩〘Contact on/off〙
-╠➩〘Simisimi on/off〙
+╠➩☠〘Notif on/off〙
+╠➩☠〘Url on/off〙
+╠➩☠〘Alwaysread on/off〙
+╠➩☠〘Sider on/off〙
+╠➩☠〘Contact on/off〙
+╠➩☠〘Simisimi on/off〙
 ╠═════════════════════════
-║             ρнαитσм gнσѕт
+║     ☠☠ρнαитσм gнσѕт☠☠
 ║    line.me/ti/p/~rian-rian.
 ╚═════════════════════════
 """
 
 creatorMessage ="""
 ╔═════════════════════════
-║         ρнαитσм gнσѕт
+║     ☠ρнαитσм gнσѕт☠
 ╠═════════════════════════
-╠➩〘Admin add @〙
-╠➩〘Admin remove @〙
-╠➩〘/vipro〙
-╠➩〘/vipro1〙
-╠➩〘/vipro2〙
-╠➩〘/vipro3〙
-╠➩〘/vipro4〙
-╠➩〘Crash〙
-╠➩〘Kickall〙
-╠➩〘Bc: (Text)〙
-╠➩〘Nk: @〙
-╠➩〘Ulti @〙
-╠➩〘Join group: (NamaGroup〙
-╠➩〘Leave group: (NamaGroup〙
-╠➩〘Leave all group〙
-╠➩〘Bot restart〙
-╠➩〘Turn off〙
+╠➩☠〘Admin add @〙
+╠➩☠〘Admin remove @〙
+╠➩☠〘/vipro〙
+╠➩☠〘/vipro1〙
+╠➩☠〘/vipro2〙
+╠➩☠〘/vipro3〙
+╠➩☠〘/vipro4〙
+╠➩☠〘Crash〙
+╠➩☠〘Kickall〙
+╠➩☠〘Bc: (Text)〙
+╠➩☠〘Nk: @〙
+╠➩☠〘Ulti @〙
+╠➩☠〘Join group: (NamaGroup〙
+╠➩☠〘Leave group: (NamaGroup〙
+╠➩☠〘Leave all group〙
+╠➩☠〘Bot restart〙
+╠➩☠〘Turn off〙
 ╠═════════════════════════
-║             ρнαитσм gнσѕт
+║       ☠☠ρнαитσм gнσѕт☠☠
 ║    line.me/ti/p/~rian-rian.
 ╚═════════════════════════
 """
 
 adminMessage ="""
 ╔═════════════════════════
-║            ρнαитσм gнσѕт
+║       ☠ρнαитσм gнσѕт☠
 ╠═════════════════════════
-╠➩〘Admin list〙
-╠➩〘Ban〙
-╠➩〘Unban〙
-╠➩〘Ban @〙
-╠➩〘Unban @〙
-╠➩〘Ban list〙
-╠➩〘Clear ban〙
-╠➩〘Kill〙
-╠➩〘Kick @〙
-╠➩〘Set member: (Jumlah)〙
-╠➩〘Ban group: (NamaGroup〙
-╠➩〘Del ban: (NamaGroup〙
-╠➩〘List ban〙
-╠➩〘Kill ban〙
-╠➩〘Glist〙
-╠➩〘Glistmid〙
-╠➩〘Details group: (Gid)〙
-╠➩〘Cancel invite: (Gid)〙
-╠➩〘Invitemeto: (Gid)〙
-╠➩〘Kapten acc invite〙
-╠➩〘Vipro1 acc invite〙
-╠➩〘Vipro2 acc invite〙
-╠➩〘Vipro3 acc invite〙
-╠➩〘Vipro4 acc invite〙
-╠➩〘Removechat〙
-╠➩〘Join on/off〙
-╠➩〘Joincancel on/off〙
-╠➩〘Respon on/off〙
-╠➩〘Responkick on/off〙
-╠➩〘Leave on/off〙
-╠➩〘All join / (Vipro1/2/3/4 Join)〙
+╠➩☠〘Admin list〙
+╠➩☠〘Ban〙
+╠➩☠〘Unban〙
+╠➩☠〘Ban @〙
+╠➩☠〘Unban @〙
+╠➩☠〘Ban list〙
+╠➩☠〘Clear ban〙
+╠➩☠〘Kill〙
+╠➩☠〘Kick @〙
+╠➩☠〘Set member: (Jumlah)〙
+╠➩☠〘Ban group: (NamaGroup〙
+╠➩☠〘Del ban: (NamaGroup〙
+╠➩☠〘List ban〙
+╠➩☠〘Kill ban〙
+╠➩☠〘Glist〙
+╠➩☠〘Glistmid〙
+╠➩☠〘Details group: (Gid)〙
+╠➩☠〘Cancel invite: (Gid)〙
+╠➩☠〘Invitemeto: (Gid)〙
+╠➩☠〘Kapten acc invite〙
+╠➩☠〘Vipro1 acc invite〙
+╠➩☠〘Vipro2 acc invite〙
+╠➩☠〘Vipro3 acc invite〙
+╠➩☠〘Vipro4 acc invite〙
+╠➩☠〘Removechat〙
+╠➩☠〘Join on/off〙
+╠➩☠〘joincancel on/off〙
+╠➩☠〘Respon on/off〙
+╠➩☠〘Responkick on/off〙
+╠➩☠〘Leave on/off〙
+╠➩☠〘All join / (Vipro1/2/3/4 Join)〙
 ╠═════════════════════════
-║             ρнαитσм gнσѕт
+║     ☠☠ρнαитσм gнσѕт☠☠
 ║   line.me/ti/p/~rian-rian.
 ╚═════════════════════════
 """
 
 helpMessage ="""
 ╔═════════════════════════
-║              ρнαитσм gнσѕт
+║      ☠ρнαитσм gнσѕт☠
 ╠═════════════════════════
-╠➩〘Help protect〙
-╠➩〘Help self〙
-╠➩〘Help bot〙
-╠➩〘Help group〙
-╠➩〘Help set〙
-╠➩〘Help media〙
-╠➩〘Help admin〙
-╠➩〘Help creator〙
-╠➩〘Owner〙
-╠➩〘Admin〙
-╠➩〘Speed〙
-╠➩〘Speed test〙
-╠➩〘Status〙
+╠➩☠〘Help protect〙
+╠➩☠〘Help self〙
+╠➩☠〘Help bot〙
+╠➩☠〘Help group〙
+╠➩☠〘Help set〙
+╠➩☠〘Help media〙
+╠➩☠〘Help admin〙
+╠➩☠〘Help creator〙
+╠➩☠〘Owner〙
+╠➩☠〘Admin〙
+╠➩☠〘Speed〙
+╠➩☠〘Speed test〙
+╠➩☠〘Status〙
 ╠═════════════════════════
-║             ρнαитσм gнσѕт
+║        ☠☠ρнαитσм gнσѕт☠☠
 ║     line.me/ti/p/~rian-rian.
 ╚═════════════════════════
 """
 
 protectMessage ="""
 ╔═════════════════════════
-║           ρнαитσм gнσѕт
+║     ☠☠ρнαитσм gнσѕт☠☠
 ╠═════════════════════════
-╠➩〘Allprotect on/off〙
-╠➩〘Autocancel on/off〙
-╠➩〘Qr on/off〙
-╠➩〘Autokick on/off〙
-╠➩〘Ghost on/off〙
-╠➩〘Invitepro on/off〙
+╠➩☠〘Allprotect on/off〙
+╠➩☠〘Autocancel on/off〙
+╠➩☠〘Qr on/off〙
+╠➩☠〘Autokick on/off〙
+╠➩☠〘Ghost on/off〙
+╠➩☠〘Invitepro on/off〙
 ╠═════════════════════════
-║             ρнαитσм gнσѕт
+║       ☠☠ρнαитσм gнσѕт☠☠
 ║     line.me/ti/p/~rian-rian.
 ╚══════════════════════
 """
@@ -719,7 +719,7 @@ def bot(op):
         if op.type == 19: #Member Ke Kick
           if op.param2 not in Bots:
             random.choice(KAC).kickoutFromGroup(op.param1,[op.param2])
-            cl.inviteIntoGroup(op.param1,[op.param3])
+            kk.inviteIntoGroup(op.param1,[op.param3])
         
         if op.type == 19: 
           if op.param3 in admin: #Kalo Admin ke Kick
@@ -729,7 +729,7 @@ def bot(op):
               pass
             else:
                 random.choice(KAC).kickoutFromGroup(op.param1,[op.param2])
-                cl.inviteIntoGroup(op.param1,[op.param3])
+                kk.inviteIntoGroup(op.param1,[op.param3])
               
         if op.type == 19:
         #if wait["AutoKick"][op.param1] == True:	
@@ -871,7 +871,7 @@ def bot(op):
 			kr.acceptGroupInvitationByTicket(op.param1,Ti)
 			G.preventJoinByTicket = True
 			cl.updateGroup(G)
-			cl.sendText(op.param1."maksih ya kak dah di invite")
+			cl.sendText(op.param1,"maksih ya kak dah di invite")
 	    else:
                 if wait["AutoCancel"][op.param1] == True:
 		    if op.param3 in admin:
@@ -2831,7 +2831,7 @@ def bot(op):
                 random.choice(KAC).inviteIntoGroup(msg.to,[midd])
 
             elif "Invite creator" in msg.text:
-                midd = "uda936836a9869eb86ec8ab992a4e8979"
+                midd = "u67acbba40f5d7983bd60c200e92456e9"
                 random.choice(KAC).inviteIntoGroup(msg.to,[midd])
 
             elif msg.text in ["Welcome","welcome","Welkam","welkam","Wc","wc"]:
@@ -2997,54 +2997,54 @@ def bot(op):
 
             elif msg.text in [","]:                                 
 		if msg.from_ in admin:
-              if wait["Leave"] == True:		    
+                  if wait["Leave"] == True:		    
                     ki.leaveGroup(msg.to)
                     kk.leaveGroup(msg.to)
                     kc.leaveGroup(msg.to)
                     kr.leaveGroup(msg.to)
-              else:
+                else:
 		          cl.sendText(msg.to,"Leavenya Belum On")                    
 
             elif msg.text in ["@bye","@Bye"]:
 		if msg.from_ in admin:
-              if wait["Leave"] == True:	
+                  if wait["Leave"] == True:	
 		    cl.leaveGroup(msg.to)
 		    wait["Leave"] = False
-              else:
+                else:
 		          cl.sendText(msg.to,"Bilang Dulu Sama Admin Ku")		    
 		    
 
             elif msg.text in ["Absen"]:
 		if msg.from_ in admin:
-		cl.sendText(msg.to,"ρнαитσм gнσѕт absen!")
-                ki.sendText(msg.to,"s❤ a❤ b❤ r❤ i❤ n❤ a❤ ")
-                kk.sendText(msg.to,"🅩🅐🅗🅡🅐")
-                kc.sendText(msg.to,"ⓕⓐⓓⓗⓘⓛⓐⓣⓤⓝ")
-                kr.sendText(msg.to,"【n】【i】【s】【a】")
+	    	    cl.sendText(msg.to,"ρнαитσм gнσѕт absen!")
+                    ki.sendText(msg.to,"s❤ a❤ b❤ r❤ i❤ n❤ a❤ ")
+                    kk.sendText(msg.to,"🅩🅐🅗🅡🅐")
+                    kc.sendText(msg.to,"ⓕⓐⓓⓗⓘⓛⓐⓣⓤⓝ")
+                    kr.sendText(msg.to,"【n】【i】【s】【a】")
 
 
             elif msg.text.lower() in ["respon"]:
 		if msg.from_ in admin:
-                cl.sendText(msg.to,responsename)
-                ki.sendText(msg.to,responsename2)
-                kk.sendText(msg.to,responsename3)
-                kc.sendText(msg.to,responsename4)
-                kr.sendText(msg.to,responsename5)
+                    cl.sendText(msg.to,responsename)
+                    ki.sendText(msg.to,responsename2)
+                    kk.sendText(msg.to,responsename3)
+                    kc.sendText(msg.to,responsename4)
+                    kr.sendText(msg.to,responsename5)
 
             elif msg.text in ["Sp","Speed","speed"]:
 		if msg.from_ in admin:
-                start = time.time()
-                print("Speed")                
-                elapsed_time = time.time() - start
-		cl.sendText(msg.to, "Progress...")
-                random.choice(KAC).sendText(msg.to, "%sseconds" % (elapsed_time))
+                    start = time.time()
+                    print("Speed")                
+                    elapsed_time = time.time() - start
+		    cl.sendText(msg.to, "Progress...")
+                    random.choice(KAC).sendText(msg.to, "%sseconds" % (elapsed_time))
                 
             elif msg.text in ["Speed test"]:
 		if msg.from_ in admin:
-                start = time.time()
-                cl.sendText(msg.to, "Progress...")
-                elapsed_time = time.time() - start
-                random.choice(KAC).sendText(msg.to, "%sseconds" % (elapsed_time))                
+                    start = time.time()
+                    cl.sendText(msg.to, "Progress...")
+                    elapsed_time = time.time() - start
+                    random.choice(KAC).sendText(msg.to, "%sseconds" % (elapsed_time))                
 
 
             elif "Nk: " in msg.text:
