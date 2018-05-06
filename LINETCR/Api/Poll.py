@@ -38,7 +38,7 @@ class Poll:
     self.transport.open()
 
   def stream(self, sleep=50000):
-    usleep = lambda x: time.sleep(x/1000000.0)
+    #usleep = lambda x: time.sleep(x/1000000.0)
     while True:
       try:
         Ops = self.client.fetchOps(self.rev, 5)
@@ -51,4 +51,4 @@ class Poll:
           self.rev = max(self.rev, Op.revision)
           return Op
 
-      usleep(sleep)
+      #usleep(sleep)
