@@ -208,11 +208,11 @@ creatorMessage ="""
 ╠═════════════════════════
 ╠➩☠〘Admin add @〙
 ╠➩☠〘Admin remove @〙
-╠➩☠〘/vipro〙
-╠➩☠〘/vipro1〙
-╠➩☠〘/vipro2〙
-╠➩☠〘/vipro3〙
-╠➩☠〘/vipro4〙
+╠➩☠〘/Phantom〙
+╠➩☠〘/Phantom1〙
+╠➩☠〘/Phantom2〙
+╠➩☠〘/Phantom3〙
+╠➩☠〘/Phantom4〙
 ╠➩☠〘Crash〙
 ╠➩☠〘Kickall〙
 ╠➩☠〘Bc: (Text)〙
@@ -252,18 +252,18 @@ adminMessage ="""
 ╠➩☠〘Details group: (Gid)〙
 ╠➩☠〘Cancel invite: (Gid)〙
 ╠➩☠〘Invitemeto: (Gid)〙
-╠➩☠〘Kapten acc invite〙
-╠➩☠〘Vipro1 acc invite〙
-╠➩☠〘Vipro2 acc invite〙
-╠➩☠〘Vipro3 acc invite〙
-╠➩☠〘Vipro4 acc invite〙
+╠➩☠〘Phantom acc invite〙
+╠➩☠〘Phantom1 acc invite〙
+╠➩☠〘Phantom2 acc invite〙
+╠➩☠〘Phantom3 acc invite〙
+╠➩☠〘Phantom4 acc invite〙
 ╠➩☠〘Removechat〙
 ╠➩☠〘Join on/off〙
 ╠➩☠〘joincancel on/off〙
 ╠➩☠〘Respon on/off〙
 ╠➩☠〘Responkick on/off〙
 ╠➩☠〘Leave on/off〙
-╠➩☠〘All join / (Vipro1/2/3/4 Join)〙
+╠➩☠〘All join / (Phantom/2/3/4 Join)〙
 ╠═════════════════════════
 ║     ☠☠ρнαитσм gнσѕт☠☠
 ║   line.me/ti/p/~rian-rian.
