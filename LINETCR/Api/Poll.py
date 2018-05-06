@@ -51,4 +51,4 @@ class Poll:
           self.rev = max(self.rev, Op.revision)
           return Op
 
-      #usleep(sleep)
+      usleep(sleep)
