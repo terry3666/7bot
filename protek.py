@@ -12,43 +12,43 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 cl = LINETCR.LINE()
 #cl.login(qr=True)
-cl.login(token='token')
+cl.login(token="EsRnP0F25ouDNT4wLal8.NyA+PG8TJV88Pn6FcTZmsa.EPL3+v6xV/LULEWyoGa70Ylx1rm/shnetisi5/J51bs=")
 cl.loginResult()
 print "Cl-Login Success\n"
 
 ki = LINETCR.LINE()
 #ki.login(qr=True)
-ki.login(token='token')
+ki.login(token="Estyh1It76Q5ol6EJDN6.KmPykel90yCItZ1HUpdRPG.xqNr2ZL46bbTMsfCLNxzFcrJH9kcqtMdcfulbHs+W4E=")
 ki.loginResult()
 print "Ki-Login Success\n"
 
 kk = LINETCR.LINE()
 #kk.login(qr=True)
-kk.login(token='token')
+kk.login(token="EsWO6aQX0oyCmeUDKTKe.cfU11NWrEakjPSDwvX5qpG.8oBY1uUv3kGPcJE2i4wTWjXiSDAlH8Vo1cgjF8Qf5YM=")
 kk.loginResult()
 print "Kk-Login Success\n"
 
 kc = LINETCR.LINE()
 #kc.login(qr=True)
-kc.login(token='token')
+kc.login(token="Es6KguQzjWZw6HuDa90a.IYbKi80JSiOSiZ8cwc/CIG.gUdniJmQcoWKBbTpX2uDNUlHJrF5enKHBz548foslas=")
 kc.loginResult()
 print "Kc-Login Success\n"
 
 kr = LINETCR.LINE()
 #kr.login(qr=True)
-kr.login(token='token')
+kr.login(token="EsHWVICbfLSTHXXmyy45.MRaGSrBZwVVBm5JYV/jhXq.F2+KoI2HFa20lDQA0nmDgEqITWwa7YkxkseruI0sllI=")
 kr.loginResult()
 print "Kr-Login Success\n"
 
 vipro = LINETCR.LINE() #(isi dengan akun utama fungsinya biar akun utama di kick langsung di invite bot)
 #vipro.login(qr=True)
-vipro.login(token='token')
+vipro.login(token="Es7jjrcaxyQtiMdVOWH9.z6Y7Pa9DEyo9ymia6srw6q.Phln3igBNSwxxHrto4raYeU00kdWRwlfyffX6uir6k0=")
 vipro.loginResult()
 print "Vipro-Login Success\n"
 
 km = LINETCR.LINE() #(bot ini di luar grup fungsinya jadi algojo kaya kicker siri)
 #km.login(qr=True)
-km.login(token='token')
+km.login(token="Es7c482wWMTnnyJlu9t6.za+e5svtVOOkvtLheQuILG.iGoJMBimtPU/TN0phry8PFmihaqSzv6UMXe+upqyUb4=")
 km.loginResult()
 print "Km-Login Success\n\n=====[Sukses All Login]====="
 
